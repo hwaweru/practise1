@@ -1,3 +1,15 @@
-p{
-    font-style: italic;font-size: larger;
+p {
+  font-style: italic;
+  font-size: larger;
+  color: blueviolet;
+}
+ul {
+  color: blue;
+  font-size: larger;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+ol {
+  color: chartreuse;
+  font-style: oblique;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
