@@ -1,7 +1,8 @@
 p {
   font-style: italic;
   font-size: larger;
-  color: blueviolet;
+  color: blue;
+ 
 }
 ul {
   color: blue;
@@ -27,4 +28,7 @@ h3 {
 }
 body {
   background-color: darkkhaki;
+}
+li{
+  list-style: lower-roman;
 }
