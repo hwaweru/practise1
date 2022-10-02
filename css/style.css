@@ -15,5 +15,13 @@ ol {
 }
 h2 {
   font-weight: 500;
-  font-style: oblique; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: oblique;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-decoration: double;
+}
+h3 {
+  color: darkgreen;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-decoration: double;
 }
